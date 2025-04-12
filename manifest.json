@@ -1,0 +1,20 @@
+{
+    "name": "Unreadable Code",
+    "short_name": "UnreadableCode",
+    "start_url": ".",
+    "icons": [
+        {
+            "src": "/icon-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-223x223.png",
+            "sizes": "223x223",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#000000",
+    "background_color": "#000000",
+    "display": "standalone"
+}
